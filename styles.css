@@ -1,13 +1,14 @@
-
 body {    
         display: flex;  
         flex-direction: column;    
-        background-color:rgba(17, 61, 4, 0.349); 
+        background-color:rgba(19, 92, 12, 0.349); 
         max-width: 960px;      
         margin:auto;
         padding:0; 
         font-size: 16px;     
 }
+
+      
 
 header h1 {
         font-family:Arial;
@@ -18,14 +19,14 @@ header p {
         text-align:center;
 }
 
-#image {       
-        display:block;
+
+
+#image {
         max-width:100%;
         height:auto;
-        justify-content:center;             
-        border: 5px;    
-        border-style: groove;
-} 
+        border: 5px;
+        border-style: groove;       
+}
 
 .footer-box { 
         display:flex;
@@ -35,7 +36,6 @@ header p {
         max-width: 960px;
         margin: 0;
 }
-
 .footer-box a {
         max-width:800px; 
         margin: auto;
@@ -44,9 +44,7 @@ header p {
         max-width:800px; 
         margin: auto;
 }
-
 .link {
         font-weight: bold;
         font-size: larger;
 }
-
