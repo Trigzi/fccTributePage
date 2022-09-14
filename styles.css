@@ -19,7 +19,11 @@ header p {
         text-align:center;
 }
 
-
+#tribute-info {
+        background-color: rgba(224, 245, 216, 0.411);
+        padding:20px;
+        
+}
 
 #image {
         max-width:100%;
